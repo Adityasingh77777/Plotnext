@@ -4,7 +4,7 @@ A comprehensive full-stack RBAC (Role-Based Access Control) management system bu
 
 ## 🚀 Live Demo
 
-**Live URL:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
+**Live URL:** [https://your-app-name.vercel.app](https://plotnext-ak5d.vercel.app/)
 
 ## 📋 What is RBAC?
 
